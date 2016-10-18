@@ -14,8 +14,7 @@ Assignment for understanding networks. drop ball game
 
 * Use Node.js
 * require("net"), use net.connect(port, hostName, callback);
-<br />
-if you are making physical controller
-* require("serialport")
+* if you are making physical controller
+<br />require("serialport")
 
-Rubin
+<b>Rubin</b>
